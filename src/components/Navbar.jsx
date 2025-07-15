@@ -6,7 +6,7 @@ const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false)
 
   return (
-    <nav className='bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 shadow-lg p-4 fixed top-0 w-full z-50'>
+    <nav className='bg-gradient-to-r from-indigo-500 via-blue-500 to-blue-500 shadow-lg p-4 fixed top-0 w-full z-50'>
       <div className='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8'>
         <div className='flex justify-between items-center'>
           <h1 className='text-3xl font-extrabold text-white tracking-wide'>

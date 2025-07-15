@@ -6,13 +6,13 @@ const projectList = [
     description:
       'A dynamic web application that leverages the TMDB API to let users explore trending movies and TV shows, search for specific titles, and view detailed information including ratings, release dates, and summaries. Built with React and styled using Tailwind CSS, the app provides a responsive and modern user experience.',
     link: 'https://chrissav713movieexplorer.netlify.app/',
-    repo: 'https://github.com/ChrisSav713/reading-list.git'
+    repo: 'https://github.com/ChrisSav713/MovieExplorer.git'
   },
   {
     title: 'Reading List',
     description: `A web app that allows users to create and manage a personalized reading list, tracking books they want to read or have already completed. The site integrates with the Google Books API to easily search for and add books with rich metadata. Built with Python using the Flask framework, and backed by a PostgreSQL database for storing custom reading status and book data.`,
-    link: 'https://reading-listchrissav713.netlify.app/',
-    repo: 'https://github.com/ChrisSav713/MovieExplorer.git'
+    link: 'https://reading-list-fqzs.onrender.com',
+    repo: 'https://github.com/ChrisSav713/reading-list.git'
   }
 ]
 
