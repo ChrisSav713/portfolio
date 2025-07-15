@@ -14,16 +14,13 @@ const Home = () => {
       ></img>
       <h2 className='text-4xl font-bold mb-4'>Full-Stack Developer</h2>
       <p className='max-w-xl mx-auto text-lg'>
-        I'm a developer who transitioned from custodial work to software
-        development. I love clean code, strong coffee, and building things that
-        make life easier.
+        Motivated and adaptable professional transitioning into software
+        development after 10 years of custodial work. Holds a degree in Computer
+        Science and recently completed a full-stack coding bootcamp. Focused on
+        building practical skills with modern technologies like React,
+        JavaScript, and Python, with an emphasis on clean, maintainable code and
+        real-world projects.
       </p>
-      <a
-        href='/resume'
-        className='inline-block mt-6 px-6 py-3 bg-indigo-500 text-white rounded-lg shadow hover:bg-indigo-600 transition'
-      >
-        Download Resume
-      </a>
     </section>
   )
 }
