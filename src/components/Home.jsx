@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <section
       id='home'
-      className='min-h-screen flex flex-col items-center justify-center px-4'
+      className='flex flex-col items-center justify-center px-4 pb-40'
     >
       <img
         src={me}

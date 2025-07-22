@@ -15,8 +15,8 @@ const Navbar = () => {
 
           {/* Menu Buttons */}
           <div className='hidden md:flex space-x-6'>
-            {['Home', 'Projects', 'Certifications', 'Resume', 'Contact'].map(
-              (item) => (
+            {['Home', 'Resume', 'Projects', 'Certifications', 'Contact'].map(
+              item => (
                 <a
                   key={item}
                   href={`#${item.toLowerCase()}`}
@@ -64,9 +64,9 @@ const Navbar = () => {
 
       {/* Hamburger Dropdown */}
       {isOpen && (
-        <div className='md:hidden px-4 pb-4 pt-2 space-y-2 bg-white bg-opacity-10 backdrop-blur rounded-b-lg text-white'>
+        <div className='md:hidden px-4 pb-4 pt-2 space-y-2 bg-blue-500 bg-opacity-10 backdrop-blur rounded-b-lg text-white'>
           {['Home', 'Projects', 'Certifications', 'Resume', 'Contact'].map(
-            (item) => (
+            item => (
               <a
                 key={item}
                 href={`#${item.toLowerCase()}`}

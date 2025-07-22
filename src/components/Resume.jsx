@@ -1,8 +1,8 @@
 import React from 'react'
-import file from '../doc/Christopher Savasta Resume.pdf'
+import file from '../doc/Christopher Savasta Resume 7-22-25.pdf'
 const Resume = () => {
   return (
-    <section id='resume' className='min-h-screen p-8 text-center'>
+    <section id='resume' className='p-8 pb-50 text-center'>
       <h2 className='text-3xl font-bold mb-4'>Resume</h2>
       <a
         href={file}

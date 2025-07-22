@@ -12,12 +12,12 @@ import Navbar from './components/Navbar'
 const App = () => {
   return (
     <Router>
-      <div className='min-h-screen min-w-screen bg-slate-50 text-slate-800 font-sans'>
+      <div className='min-w-screen bg-slate-50 text-slate-800 font-sans pt-16 scroll-pt-16 md:placeholder-slate-200'>
         <Navbar />
         <Home />
+        <Resume />
         <Projects />
         <Certifications />
-        <Resume />
         <Contact />
       </div>
     </Router>
