@@ -19,7 +19,7 @@ const projectList = [
     title: 'Movie Explorer',
     description:
       'A movie discovery app that fetches trending films and detailed metadata from the TMDB API. Features include dynamic search, detail pages with full movie information, responsive UI, and clean navigation using React Router. Data is displayed with images, ratings, release dates, and more.',
-    link: 'https://movie-explorerchrissav713.netlify.app/',
+    link: 'https://chrissav713movieexplorer.netlify.app',
     repo: 'https://github.com/ChrisSav713/movie-explorer.git',
     highlights: [
       'React',
