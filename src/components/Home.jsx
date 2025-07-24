@@ -7,19 +7,15 @@ const Home = () => {
       id='home'
       className='flex flex-col items-center justify-center px-4 pb-40'
     >
-      <img
-        src={me}
-        alt='Picture of me'
-        className='w-75 rounded-b-md mx-auto shadow'
-      ></img>
-      <h2 className='text-4xl font-bold mb-4'>Full-Stack Developer</h2>
+      <h2 className='text-4xl font-bold mb-4'>About Me</h2>
       <p className='max-w-xl mx-auto text-lg'>
-        Motivated and adaptable professional transitioning into software
-        development after 10 years of custodial work. Holds a degree in Computer
-        Science and recently completed a full-stack coding bootcamp. Focused on
-        building practical skills with modern technologies like React,
-        JavaScript, and Python, with an emphasis on clean, maintainable code and
-        real-world projects.
+        I'm a career-changer with a background in custodial work and a strong
+        foundation in Computer Science. After a decade of hands-on, reliable
+        work, I reignited my passion for technology and completed a full-stack
+        coding bootcamp. I'm now focused on building clean, maintainable
+        applications using modern tools like React, JavaScript, and Python. I
+        thrive on learning by doing—whether it's developing full-stack projects,
+        exploring new frameworks, or solving real-world problems through code.
       </p>
     </section>
   )
