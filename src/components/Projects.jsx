@@ -20,7 +20,7 @@ const projectList = [
     description:
       'A movie discovery app that fetches trending films and detailed metadata from the TMDB API. Features include dynamic search, detail pages with full movie information, responsive UI, and clean navigation using React Router. Data is displayed with images, ratings, release dates, and more.',
     link: 'https://chrissav713movieexplorer.netlify.app',
-    repo: 'https://github.com/ChrisSav713/movie-explorer.git',
+    repo: 'https://github.com/ChrisSav713/MovieExplorer.git',
     highlights: [
       'React',
       'JavaScript',
@@ -33,7 +33,7 @@ const projectList = [
     title: 'Reading List',
     description:
       'A backend-focused web app that lets users log and track books they’ve read, add new entries with forms, edit details, and delete records. Built with server-side rendering using Flask and Jinja. Supports full CRUD operations with form validation and database persistence.',
-    link: 'https://reading-listchrissav713.netlify.app/', // update if needed
+    link: 'https://reading-list-fqzs.onrender.com', // update if needed
     repo: 'https://github.com/ChrisSav713/reading-list.git',
     highlights: ['Python', 'Flask', 'Jinja', 'PostgreSQL', 'Postman']
   }
